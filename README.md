@@ -12,6 +12,7 @@
 
 ## Portafolio Personal
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Cristobal314/mat281_portfolio/master?urlpath=lab)
+
 Cristóbal Álvarez Contreras https://www.linkedin.com/in/cristobal-alvarez-c/
 ### Setup
 
